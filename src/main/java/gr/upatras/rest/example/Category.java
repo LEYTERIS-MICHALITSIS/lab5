@@ -1,9 +1,8 @@
 package gr.upatras.rest.example;
 import java.util.ArrayList;
 import java.util.List;
-/**
-* @author ctranoris
-*
+/*
+    This is a change to test github
 */
 public class Category {
 /**
